@@ -1,0 +1,2 @@
+# NEWSGALLERY-MAIN-PROJECT
+NewsGallery Project
